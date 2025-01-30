@@ -1,0 +1,26 @@
+Unreal game project - University individual assignment project.
+A simple horror game, where the player must navigate through narrow streets, while avoiding obstacles and demons.
+
+Asset authors:
+DEEPAI.ORG 
+LEMONGREEN 
+STUMPYSTRUST 
+PAUL WORTMANN
+PEKENA_LARVA 
+JUAND20 
+LITTLEROBOTSOUNDFACTORY 
+NOX_SOUND
+FUCHSRODOLFO 
+THEDWEEBMAN 
+BENBONCAN 
+CS279
+CHRISTOPHERDERP
+MATRIXXX
+SEB_MONSERRANO
+NATHAN-OSMAN
+KEN788
+SIMPLE MACHINES
+EELKE
+HAWKEYE_SPROUT
+JUANFG
+HYKENFREAK
