@@ -1,0 +1,41 @@
+sound_jump.wav - VOC_Male_Jump_02.wav by pekena_larva -- https://freesound.org/s/667292/ -- License: Attribution 4.0
+
+sound_crouch.wav - Agacharse.wav by JuanD20 -- https://freesound.org/s/392490/ -- License: Creative Commons 0
+
+sound_step.wav - Footstep_Dirt_08.wav by LittleRobotSoundFactory -- https://freesound.org/s/270421/ -- License: Attribution 4.0
+
+sound_fire.wav - Ambiance_Fire_Loop_Stereo.wav by Nox_Sound -- https://freesound.org/s/472591/ -- License: Creative Commons 0
+
+sound_relief.wav - relief breathing.wav by fuchsrodolfo -- https://freesound.org/s/391178/ -- License: Attribution NonCommercial 3.0
+
+music_ambient.wav - Eerie Tone Music Background Loop by TheDweebMan -- https://freesound.org/s/277192/ -- License: Attribution 4.0
+
+sound_heartbeat - Heartbeat 5sec Int.wav by Benboncan -- https://freesound.org/s/108207/ -- License: Attribution 4.0
+
+menu_hover.wav - Menu Scroll/ Selection Sound by CS279 -- https://freesound.org/s/201643/ -- License: Creative Commons 0
+
+menu_click.wav - Videogame Menu Button Clicking Sound 19 by Christopherderp -- https://freesound.org/s/333046/ -- License: Creative Commons 0
+
+game_over.wav - Game Over 02, Terminal.wav by MATRIXXX_ -- https://freesound.org/s/435199/ -- License: Creative Commons 0
+
+dialogue.wav - (Jeff Male US) https://deepai.org/text-to-speech
+
+spook_01.wav - Knocking_26.wav by deleted_user_2104797 -- https://freesound.org/s/349300/ -- License: Creative Commons 0
+
+spook_02.wav - Cat calls serene mod by seb_monserrano -- https://freesound.org/s/562895/ -- License: Creative Commons 0
+
+spook_03.wav - meow-1.wav by nathan-osman -- https://freesound.org/s/686775/ -- License: Creative Commons 0
+
+spook_04.wav - Dog_Barking.wav by ken788 -- https://freesound.org/s/386766/ -- License: Creative Commons 0
+
+spook_05.wav - throwing_garbage.WAV by simple machines -- https://freesound.org/s/46223/ -- License: Attribution 4.0
+
+spook_06.wav - steps narrow street by Eelke -- https://freesound.org/s/266654/ -- License: Attribution 4.0
+
+spook_07.wav - Bug's steps.wav by Hawkeye_Sprout -- https://freesound.org/s/469042/ -- License: Attribution 4.0
+
+spook_08.wav - light steps.wav by JuanFG -- https://freesound.org/s/471905/ -- License: Attribution 4.0
+
+spook_09.wav - Spooky Sucking Air  by hykenfreak -- https://freesound.org/s/331620/ -- License: Attribution 4.0
+
+monster.wav - shadoBoss_stun_loop.wav by rafaelzimrp -- https://freesound.org/s/570859/ -- License: Creative Commons 0
